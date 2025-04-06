@@ -1,0 +1,5 @@
+Maths = float(input("Enter the marks obtained in maths: "))
+Physics = float(input("Enter the marks obtained in Physics: "))
+Chemistry = float(input("Enter the marks obtained in Chemistry: "))
+print("The average marks obtained in 3 subjects is: ",(Maths+Physics+Chemistry)/3)
+print("The Total marks obtained in 3 subjects is: ",(Maths+Physics+Chemistry))

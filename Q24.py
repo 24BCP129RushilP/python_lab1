@@ -1,0 +1,9 @@
+a = int(input("enter the value: "))
+b = int(input("enter the value: "))
+print('The value before swapping: a= ',a)
+print('The value before swapping: b= ',b)
+a=a*b
+b=b/a
+a=a/b
+print('The value after swapping: a= ',a)
+print('The value after swapping: b= ',b)
